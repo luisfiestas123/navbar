@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* variables globales */
+:root{
+    --title-font: black;
+    --paragraph-font: black;
+}
+
+body{
+    background-color: rgb(171, 210, 197);
+    color: var(--title-font);
+}
